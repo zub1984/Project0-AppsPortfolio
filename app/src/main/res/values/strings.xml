@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jubair Apps Portfolio</string>
+    <string name="project0_tittle">My Nanodegree Apps!</string>
+    <string name="btnApp1">SPOTIFY STREAMER</string>
+    <string name="btnApp2">SCORES APP</string>
+    <string name="btnApp3">LIBRARY APP</string>
+    <string name="btnApp4">BUID IT BIGGER APP</string>
+    <string name="btnApp5">BACON READER</string>
+    <string name="btnApp6">CAPSTON:MY OWN APP</string>
+    <string name="action_settings">Settings</string>
+</resources>
